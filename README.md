@@ -18,12 +18,7 @@ then edit
 > catalog/view/theme/bilisimguru/template/common/header.twing
 
 ```sh
-
-{
-
 //line 25 : change ref for the css from "default" to "bilisimguru"
-
-}
 ```
 ### step 2
 |copy| to|
@@ -52,9 +47,7 @@ then edit
 > admin/view/template/extension/theme/bilisimguru.twig
 
 ```sh
-{
-	search and replace "theme_default" to "theme_bilisimguru"
-}
+search and replace "theme_default" to "theme_bilisimguru"
 ```
 
 ###  step 4
