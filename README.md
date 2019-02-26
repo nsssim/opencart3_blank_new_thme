@@ -86,10 +86,17 @@ log in your back store and go to
 
 > save
 
+![step5_a](https://raw.githubusercontent.com/nsssim/opencart3_blank_new_thme/master/step5_a.png)
+
+don't forget to enable it !
+
+![step5_b](https://raw.githubusercontent.com/nsssim/opencart3_blank_new_thme/master/step5_b.png)
+
 
 ###  step 6
 
 change theme under system settings store 
+![step_6](https://raw.githubusercontent.com/nsssim/opencart3_blank_new_thme/master/step_6.png)
 
 ### step 7
 
